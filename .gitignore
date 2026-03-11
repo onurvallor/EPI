@@ -1,0 +1,5 @@
+# Ignore all object files with .obj extension
+*.obj
+
+# Ignore all object files with .o extension
+*.o
